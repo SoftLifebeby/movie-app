@@ -1,3 +1,5 @@
+import React from "react";
+
 const Filter = ({ onTitleChange, onRatingChange }) => {
   return (
     <div className="flex gap-4 justify-center my-4">
